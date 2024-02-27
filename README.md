@@ -1,5 +1,5 @@
 # Sales-and-Customer-Data-Analysis-Project
-- Power Point Presentation has both the PowerBI dashboard and the findings obtained from the data
+- The Power Point Presentation in the repository has both the PowerBI dashboard and the findings obtained from the data
 
 ##### Problem Area: 
 This project involves analyzing dummy data for a company and its customer loyalty system. The analysis aims to present an update on sales performance, changes in customer behaviour, and data-driven insights and recommendations through a PowerBI dashboard and PowerPoint presentation, supported by evidence from the data.
